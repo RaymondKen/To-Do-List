@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ab4c2d71c2e3c55ad2a781b5dd2707f9f8ea19e">
+        <dex dex="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_829bba557c298e333552cd5e455c2d04228c578a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chronos\.android\build-cache\f9445abfc6b83122c60c958db9ee581c909e1a4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c3f5aa6c58e073819ebead8799980b5a4d2294d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chronos\.android\build-cache\f4761bf0a0a185e2f55d16833b093f5a6517b8f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af3ca60cc954cf92e84d670be73f3496a9be8fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_29be820b29fbcb6a78844a09236dfaf7a2d6a871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chronos\.android\build-cache\b19aa5dff7b3d8f6f15a842f6342b4cd4243c338\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\Chronos\AndroidStudioProjects\activity_example\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f0e2b6d2bec95c1d0100ae01a1370c29516f1e7\classes.dex" />
+    </item>
+
+</items>
